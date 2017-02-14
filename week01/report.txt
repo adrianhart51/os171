@@ -1,0 +1,5 @@
+Task Description Week01:
+- Intro to git basic functionality(add, status, commit, push, pull).
+- Intro to command line interface(cd, mkdir, ls, touch, mv, vi, >, >>, pwd).
+- Intro to scripting(simple scripting).
+
