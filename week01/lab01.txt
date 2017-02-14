@@ -1,0 +1,22 @@
+total 76
+drwxr-xr-x 18 adrian.hartanto51 StafCS 4096 Feb 14 23:40 .
+drwx--x--x  3 adrian.hartanto51 StafCS 4096 Feb 14 18:55 ..
+drwxr-xr-x  8 adrian.hartanto51 StafCS 4096 Feb 14 18:57 .git
+drwxr-xr-x  2 adrian.hartanto51 StafCS 4096 Feb 14 18:23 key
+-rw-r--r--  1 adrian.hartanto51 StafCS    0 Feb 14 23:40 lab01.txt
+drwxr-xr-x  2 adrian.hartanto51 StafCS 4096 Feb 14 18:23 log
+-rw-r--r--  1 adrian.hartanto51 StafCS    7 Feb 14 18:14 README.md
+drwxr-xr-x  2 adrian.hartanto51 StafCS 4096 Feb 14 18:40 sandbox
+drwxr-xr-x  2 adrian.hartanto51 StafCS 4096 Feb 14 18:55 week00
+drwxr-xr-x  2 adrian.hartanto51 StafCS 4096 Feb 14 18:21 week01
+drwxr-xr-x  2 adrian.hartanto51 StafCS 4096 Feb 14 18:21 week02
+drwxr-xr-x  2 adrian.hartanto51 StafCS 4096 Feb 14 18:21 week03
+drwxr-xr-x  2 adrian.hartanto51 StafCS 4096 Feb 14 18:21 week04
+drwxr-xr-x  2 adrian.hartanto51 StafCS 4096 Feb 14 18:22 week05
+drwxr-xr-x  2 adrian.hartanto51 StafCS 4096 Feb 14 18:22 week06
+drwxr-xr-x  2 adrian.hartanto51 StafCS 4096 Feb 14 18:22 week07
+drwxr-xr-x  2 adrian.hartanto51 StafCS 4096 Feb 14 18:22 week08
+drwxr-xr-x  2 adrian.hartanto51 StafCS 4096 Feb 14 18:23 week09
+drwxr-xr-x  2 adrian.hartanto51 StafCS 4096 Feb 14 18:23 week10
+drwxr-xr-x  2 adrian.hartanto51 StafCS 4096 Feb 14 18:23 xtra
+/home/fasilkom/mahasiswa/a/adrian.hartanto51/os171/week01
