@@ -20,3 +20,4 @@ drwxr-xr-x  2 adrian.hartanto51 StafCS 4096 Feb 14 18:23 week09
 drwxr-xr-x  2 adrian.hartanto51 StafCS 4096 Feb 14 18:23 week10
 drwxr-xr-x  2 adrian.hartanto51 StafCS 4096 Feb 14 18:23 xtra
 /home/fasilkom/mahasiswa/a/adrian.hartanto51/os171/week01
+Today is 15 Feb 2017 at 00:34:39
