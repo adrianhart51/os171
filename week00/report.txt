@@ -1,0 +1,2 @@
+#Adrian Hartanto
+Week00 Task Description: Login ssh to badak.cs.ui.ac.id
