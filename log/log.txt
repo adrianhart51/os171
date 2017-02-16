@@ -1,0 +1,9 @@
+w01-140216-13-LR-About: HKI, From: Lecturer
+w01-140216-13-LR-About: HKI, From: Lecturer
+w01-140216-14-LR-About: Introduction to Scripting, From: Lecturer
+w01-140216-14-LR-About: Introduction to Scriptiog, From: Lecturer
+w01-140216-18-PS-Lab Session
+w01-140216-18-PS-Lab Session
+w01-140216-23-PS-Lab Session
+w01-150216-00-PS-Lab Session
+w01-150216-00-LR-About: How to install Broadcom BCM43142 wireless drivers on Kali Linux 2.0, From: https://www.youtube.com/watch?v=b6vPbwsPcc4 
