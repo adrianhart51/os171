@@ -10,4 +10,10 @@ w01-150217-00-LR-About: How to install Broadcom BCM43142 wireless drivers on Kal
 w02-210217-13-LR-About: Performance and Security, From: Lecturer
 w02-210217-13-LR-About: Performance and Security, From: Lecturer
 w02-210217-14-LR-About: Performance and Security, From: Lecturer
-w02-210217-14-LR-About: Performance and Security, From: Lecturer 
+w02-210217-14-LR-About: Performance and Security, From: Lecturer
+w03-020317-13-LR-About: Startup, Boot, BIOS
+w03-020317-13-LR-About: Startup, Boot, BIOS
+w03-020317-14-LR-About: Startup, Boot, BIOS
+w03-020317-14-LR-About: Startup, Boot, BIOS
+w03-030317-16-PS-Lab Session
+w03-030317-16-PS-Lab Session 
