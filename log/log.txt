@@ -16,4 +16,16 @@ w03-020317-13-LR-About: Startup, Boot, BIOS
 w03-020317-14-LR-About: Startup, Boot, BIOS
 w03-020317-14-LR-About: Startup, Boot, BIOS
 w03-030317-16-PS-Lab Session
-w03-030317-16-PS-Lab Session 
+w03-030317-16-PS-Lab Session
+w04-070317-13-LR-About: I/O, From: Lecturer
+w04-070317-13-LR-About: I/O, From: Lecturer
+w04-070317-14-LR-About: I/O, From: Lecturer
+w04-070317-14-LR-About: I/O, From: Lecturer
+w04-070317-19-PS-Lab Session
+w04-070317-19-PS-Lab Session
+w04-090317-13-LR-About: Pointer, From: Lecturer
+w04-090317-13-LR-About: Pointer, From: Lecturer
+w04-090317-14-LR-About: Pointer, From: Lecturer
+w04-090317-14-LR-About: Pointer, From: Lecturer
+w04-090317-18-PS-Lab Session
+w04-090317-18-PS-Lab Session 
