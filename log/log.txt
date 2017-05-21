@@ -70,3 +70,9 @@ w09-220417-13-PS-Lab Session
 w09-220417-14-PS-Lab Session
 w09-220417-15-PS-Lab Session
 w09-220417-15-PS-Lab Session
+
+w10-250417-13-LS-About: Proses bertingkat, Latihan CPU Burst, from: Lecturer
+w10-250417-14-LS-About: Proses bertingkat, Latihan CPU Burst, from: Lecturer
+w10-280417-14-PS-Lab Session
+w10-280417-15-PS-Lab Session
+w10-280417-16-PS-Lab Session
